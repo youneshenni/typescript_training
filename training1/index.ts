@@ -1,5 +1,5 @@
 
-import scripts from './scripts/index.mjs';
+import scripts from './scripts/index.js';
 
 const newDatabase = scripts.addToDatabase({
     name: "New",

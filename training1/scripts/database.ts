@@ -4,7 +4,7 @@ const database = [
     },
     {
         name: "Second person", email: "secondperson@gmail.com"
-    }
+    },
 ];
 
 export default database;
